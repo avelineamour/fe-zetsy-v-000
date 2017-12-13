@@ -21,13 +21,10 @@ body {
 
 h1 {
 	font-family: 'Baskerville', serif;
+	font-size: 2em;
 	color: rgb(137, 158, 151);
 }
 
 img {
 	border: solid 3px rgb(137, 158, 151);
-}
-
-.pressimage {
-	width: 22%;
 }
