@@ -27,3 +27,7 @@ h1 {
 img {
 	border: solid 3px rgb(137, 158, 151);
 }
+
+.pressimage {
+	width: 22%;
+}
