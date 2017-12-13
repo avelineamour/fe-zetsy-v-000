@@ -4,6 +4,9 @@
 
 /*////////// Global Styles //////////*/
 
+html {
+	font-size: 16px;
+}
 body {
 	background: #F3EBE9;
 	font-size: 100%;
