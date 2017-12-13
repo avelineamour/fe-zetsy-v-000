@@ -44,3 +44,7 @@ img {
 .pressimage {
 	transition: border 100ms ease-in;
 }
+
+.pressimage:hover {
+	color: rgb(93, 111, 112);
+}
