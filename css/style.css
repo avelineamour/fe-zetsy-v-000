@@ -24,7 +24,9 @@ h1 {
 	color: rgb(137, 158, 151);
 }
 
-
+img {
+	border: solid 3px rgb(137, 158, 151);
+}
 
 .pressimage {
 	width: 22%;
