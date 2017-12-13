@@ -21,5 +21,9 @@ body {
 
 h1 {
 	font-family: 'Baskerville', serif;
-	color: rgb(137, 158, 151)
+	color: rgb(137, 158, 151);
+}
+
+img {
+	border: solid 3px rgb(137, 158, 151);
 }
